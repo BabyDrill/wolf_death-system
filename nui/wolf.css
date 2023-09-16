@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,700;1,400&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.deatshsystembabydrill {
+  display: none;
+}
+
+.menu-1 {
+  width: auto;
+  height: 250px;
+  background-color: rgb(0, 0, 0, 0.750);
+}
+
+.menu-titolo {
+  display: flex;
+  justify-content: center;
+}
+
+.titolo-uccisione {
+  font-family: 'Kanit', sans-serif;
+  color: #fff;
+  margin-top: 5px;
+}
+
+.menu-informazioni {
+  display: flex;
+  justify-content: center;
+}
+
+.testo-nome {
+  font-family: 'Nunito Sans', sans-serif;
+  color: #fff;
+  font-size: 23px;
+}
+
+.menu-id-player {
+  display: flex;
+  margin-top: -10px;
+}
+
+.menu-background {
+  background-color: rgb(61, 61, 255);
+  width: 26px;
+  height: 26px;
+  border-radius: 5px;
+  opacity: 1;
+}
+
+.text-id {
+  font-family: 'Nunito Sans', sans-serif;
+  color: #fff;
+  font-size: 19px;
+  text-align: center;
+  font-weight: 800;
+  margin-top: 0px;
+}
+
+.text-id-number {
+  font-family: 'Nunito Sans', sans-serif;
+  color: #fff;
+  font-size: 18px;
+  padding-left: 5px;
+  margin-top: 0;
+}
+
+.menu-kd-display {
+  display: flex;
+  padding-left: 150px;
+  padding-top: 30px;
+}
+
+.menu-kd {
+  background-color: rgb(61, 61, 255);
+  width: 40px;
+  height: 40px;
+  border-radius: 5px; 
+}
+
+.testo-kd {
+  font-family: 'Nunito Sans', sans-serif;
+  color: #fff;
+  font-size: 23px;
+  text-align: center;
+  margin: 0;
+  padding-top: 6px;
+  font-weight: bold;
+}
+
+.testo-kd-number {
+  font-family: 'Nunito Sans', sans-serif;
+  color: #fff;
+  font-size: 23px;
+  padding-left: 5px;
+  margin: 0;
+  padding-top: 6px;
+}
+
+.img-wolfdev {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  margin: -10px;
+}
+
+.img-discord {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  margin: -10px;
+}
+
+.display-vita {
+  display: flex;
+  justify-content: center;
+  margin-top: -55px;
+}
+
+.vita-background {
+  background-color: rgb(0, 0, 0, 0.600);
+  width: 500px;
+  height: 28px;
+  border-radius: 30px;
+}
+
+.vita-finale {
+  background-color: rgb(29, 29, 255);
+  width: 493px;
+  height: 22px;
+  border-radius: 15px;
+}
+
+.menu-vita-position {
+  padding-top: 3px;
+  padding-left: 3px;
+}
+
+.display-palla {
+  padding-left: 200px;
+}
+
+.display-palla-none {
+  padding-right: 200px;
+}
+
+.palla-background {
+  background-color: rgb(29, 29, 255);
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+
+
+.barra-display {
+  padding-top: 62px;
+}
+
+.barra {
+  width: auto;
+  height: 5px;
+  background-color: rgb(29, 29, 255);
+  box-shadow: 0 0 20px 10px rgba(29, 29, 255, 0.5); /* Applica l'ombra con colore e opacità personalizzati */
+}
